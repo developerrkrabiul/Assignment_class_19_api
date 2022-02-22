@@ -1,0 +1,47 @@
+{
+  "developers": [
+    {
+      "id": 2,
+      "name": "Rk Rabiul Islam (Razu)",
+      "email": "rk@gmail.com",
+      "photo": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-01.png",
+      "skillId": "2"
+    },
+    {
+      "id": 3,
+      "name": "Rabiul",
+      "email": "rabiul@lfwfacademy.com",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuBaqCBHZZeBxMgxTr1Nzxt2IHFLxgURKeHHKtlOE-pGxbQq2EdAqZQorxa0v22r0Bd0&usqp=CAU",
+      "skillId": "4"
+    },
+    {
+      "id": 4,
+      "name": "robi",
+      "email": "rajuk7527@gmail.com",
+      "photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team2.jpg",
+      "skillId": "5"
+    }
+  ],
+  "skill": [
+    {
+      "id": "1",
+      "name": "JS Developer"
+    },
+    {
+      "id": "2",
+      "name": "WP Developer"
+    },
+    {
+      "id": "3",
+      "name": "PHP Developer"
+    },
+    {
+      "id": "4",
+      "name": "Python Developer"
+    },
+    {
+      "id": "5",
+      "name": "DJango Developer"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "deves_server",
+  "version": "1.0.0",
+  "description": "Assignment Class 19 deves_api",
+  "main": "index.js",
+  "scripts": {
+    "test": "json-server --watch db.json --port 5050"
+  },
+  "author": "Rk Rabiul islam Razu",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
